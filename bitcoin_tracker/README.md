@@ -1,0 +1,1 @@
+The purpose of this project is to track and display Bitcoin's live value. 
