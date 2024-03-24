@@ -1,0 +1,1 @@
+The purpose of this project is to scrape the title from a random Wikipedia page and return it in the console.
